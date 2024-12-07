@@ -2,9 +2,9 @@
   "name": "testproject",
   "version": "1.0.0",
   "description": "This is a test project, lets see where it goes...",
-  "main": "Test.js",
+  "main": "dist/Test.js",
   "scripts": {
-    "start": "node Test.js"
+    "start": "node dist/Test.js"
   },
   "repository": {
     "type": "git",
