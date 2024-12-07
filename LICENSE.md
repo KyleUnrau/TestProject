@@ -1,4 +1,4 @@
-TERMS AND CONDITIONS
+# TERMS AND CONDITIONS
 0. Definitions.
 “This License” refers to version 3 of the GNU General Public License.
 
