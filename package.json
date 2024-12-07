@@ -1,0 +1,19 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "This is a test project, lets see where it goes...",
+  "main": "Test.js",
+  "scripts": {
+    "start": "node Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KyleUnrau/TestProject.git"
+  },
+  "author": "Kyle R. Unrau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KyleUnrau/TestProject/issues"
+  },
+  "homepage": "https://github.com/KyleUnrau/TestProject#readme"
+}
