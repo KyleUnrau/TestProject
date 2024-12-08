@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KyleUnrau/TestProject/issues"
   },
-  "homepage": "https://github.com/KyleUnrau/TestProject#readme"
+  "homepage": "https://github.com/KyleUnrau/TestProject#readme",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
 }
