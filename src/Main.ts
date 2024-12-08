@@ -1,2 +1,7 @@
 var X = "Hello World!";
-console.log(X);
+
+function SaySomething(ThisText: string) {
+    console.log(ThisText);
+}
+
+SaySomething(X);
