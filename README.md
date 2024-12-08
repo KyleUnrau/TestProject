@@ -1,4 +1,4 @@
-# TestProject v1.2.0
+# TestProject v1.2.1
 ## Usage Agreement
 By running this program, you acknowledge that you have read, understood, and agreed to the terms and conditions outlined in the LICENSE.md file. Please make sure to review the license before using or modifying the software.
 
