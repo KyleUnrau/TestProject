@@ -1,7 +1,4 @@
-var X = "Hello World!";
+import {X} from "./SecondFile.js";
+import Test from "./ThirdFile.js";
 
-function SaySomething(ThisText: string) {
-    console.log(ThisText);
-}
-
-SaySomething(X);
+Test(X);
