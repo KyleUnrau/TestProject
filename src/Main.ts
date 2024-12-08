@@ -1,4 +1,4 @@
 import {X} from "./SecondFile.js";
 import Test from "./ThirdFile.js";
 
-Test(X);
+setTimeout(() => { Test(X); }, 5000);
